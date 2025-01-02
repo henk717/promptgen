@@ -1,4 +1,4 @@
-# PromptGen
+# StoryPromptGen
 
 This is the tool I made to summerize story texts, the LLM's don't get it perfect so you will have to do manual checking / cleaning and adjustments according to how models behave on the dataset.
 Originally the idea was to accompany this tool with a specialized model to write the prompts but this was very expensive to make due to the context needed and was proven unneccesary.
